@@ -1,0 +1,14 @@
+C:\Users\troyr\source\repos\TroyR_300791334_Lab@_Q10\obj\Debug\net8.0\TroyR_300791334_Lab@_Q10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troyr\source\repos\TroyR_300791334_Lab@_Q10\obj\Debug\net8.0\TroyR_300791334_Lab@_Q10.AssemblyInfoInputs.cache
+C:\Users\troyr\source\repos\TroyR_300791334_Lab@_Q10\obj\Debug\net8.0\TroyR_300791334_Lab@_Q10.AssemblyInfo.cs
+C:\Users\troyr\source\repos\TroyR_300791334_Lab@_Q10\obj\Debug\net8.0\TroyR_300791334_Lab@_Q10.csproj.CoreCompileInputs.cache
+C:\Users\troyr\source\repos\TroyR_300791334_Lab@_Q10\bin\Debug\net8.0\TroyR_300791334_Lab@_Q10.exe
+C:\Users\troyr\source\repos\TroyR_300791334_Lab@_Q10\bin\Debug\net8.0\TroyR_300791334_Lab@_Q10.deps.json
+C:\Users\troyr\source\repos\TroyR_300791334_Lab@_Q10\bin\Debug\net8.0\TroyR_300791334_Lab@_Q10.runtimeconfig.json
+C:\Users\troyr\source\repos\TroyR_300791334_Lab@_Q10\bin\Debug\net8.0\TroyR_300791334_Lab@_Q10.dll
+C:\Users\troyr\source\repos\TroyR_300791334_Lab@_Q10\bin\Debug\net8.0\TroyR_300791334_Lab@_Q10.pdb
+C:\Users\troyr\source\repos\TroyR_300791334_Lab@_Q10\obj\Debug\net8.0\TroyR_300791334_Lab@_Q10.dll
+C:\Users\troyr\source\repos\TroyR_300791334_Lab@_Q10\obj\Debug\net8.0\refint\TroyR_300791334_Lab@_Q10.dll
+C:\Users\troyr\source\repos\TroyR_300791334_Lab@_Q10\obj\Debug\net8.0\TroyR_300791334_Lab@_Q10.pdb
+C:\Users\troyr\source\repos\TroyR_300791334_Lab@_Q10\obj\Debug\net8.0\TroyR_300791334_Lab@_Q10.genruntimeconfig.cache
+C:\Users\troyr\source\repos\TroyR_300791334_Lab@_Q10\obj\Debug\net8.0\ref\TroyR_300791334_Lab@_Q10.dll
